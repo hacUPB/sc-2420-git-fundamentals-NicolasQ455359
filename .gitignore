@@ -1,0 +1,33 @@
+# Archivos temporales creados por el editor de texto
+*.swp
+*.swo
+
+# Archivos de configuración específicos del sistema operativo
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Archivos de compilación y binarios
+*.o        # Archivos objeto generados por el compilador
+*.out      # Archivos de salida de compilación
+*.exe      # Archivos ejecutables en Windows
+
+# Directorios de construcción
+/build/
+
+### Comentarios sobre cada regla
+
+Archivos temporales creados por el editor de texto:
+
+*.swp, *.swo: Archivos temporales creados por el editor Vim.
+Archivos de configuración específicos del sistema operativo:
+
+.DS_Store: Archivo de metadatos creado por Finder en macOS.
+Thumbs.db: Archivo de caché de miniaturas creado por el explorador de Windows.
+Archivos de compilación y binarios:
+
+*.o: Archivos objeto generados por el compilador C.
+*.out: Archivos de salida de compilación (frecuentemente utilizados en sistemas Unix).
+*.exe: Archivos ejecutables en Windows.
+Directorios de construcción:
+
+/build/: Directorio donde se guardan los archivos de compilación y otros archivos generados.
