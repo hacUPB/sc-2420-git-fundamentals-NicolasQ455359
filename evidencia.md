@@ -44,4 +44,4 @@ Un sistema de control de versión es una herramienta que ayuda a los desarrollad
   code archivo.md
   ```
 
-# Un repositorio en el contexto de Git y GitHub es un espacio de almacenamiento donde se guarda el código fuente y su historial de cambios. Permite a los desarrolladores trabajar en conjunto en un proyecto, contribuyendo con código, realizando revisiones y gestionando versiones de manera eficiente. En GitHub, los repositorios también facilitan la colaboración abierta, permitiendo a cualquiera contribuir a proyectos públicos.
+Un repositorio en el contexto de Git y GitHub es un espacio de almacenamiento donde se guarda el código fuente y su historial de cambios. Permite a los desarrolladores trabajar en conjunto en un proyecto, contribuyendo con código, realizando revisiones y gestionando versiones de manera eficiente. En GitHub, los repositorios también facilitan la colaboración abierta, permitiendo a cualquiera contribuir a proyectos públicos.
