@@ -15,6 +15,7 @@ Thumbs.db  # Windows
 /build/
 
 ### Comentarios sobre cada regla
+
 Archivos temporales creados por el editor de texto:
 
 *.swp, *.swo: Archivos temporales creados por el editor Vim.
